@@ -20,3 +20,20 @@ header h1, footer h2{
 
 
 /* PUT YOUR CSS BELOW THIS LINE */
+.blue-bg, .green-bg {
+    padding: 20px;
+    border: 5px solid black;
+    margin: 10px;
+}
+
+.blue-bg {
+    background-color: blue;
+}
+
+.green-bg {
+    background-color: green;
+}
+
+h1, h2 {
+    
+}
